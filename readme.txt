@@ -1,0 +1,1 @@
+this is a test document,which is used to test the purpose of git.
